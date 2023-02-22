@@ -28,7 +28,10 @@
       #Punto 3:
       https://github.com/BlueWolfStorm/BD_2_02210131006_A_2023/blob/main/Taller%202/Punto%203/3.pdf
       
+      
 #Taller 3:
       https://github.com/BlueWolfStorm/BD_2_02210131006_A_2023/blob/main/Taller%203/30Consultas.pdf
+      
+      
 #Taller 4:
       https://github.com/BlueWolfStorm/BD_2_02210131006_A_2023/blob/main/Taller%204/BD%20Actualizada.pdf
