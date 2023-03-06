@@ -35,3 +35,6 @@
       
 #Taller 4:
       https://github.com/BlueWolfStorm/BD_2_02210131006_A_2023/blob/main/Taller%204/BD%20Actualizada.pdf
+      
+#Taller 5:
+      https://github.com/BlueWolfStorm/BD_2_02210131006_A_2023/blob/main/Taller%205/Consultas.pdf
